@@ -1,0 +1,8 @@
+{
+  "optional": [
+    "es7.objectRestSpread"
+  ],
+  "ignore": [
+    "node_modules"
+  ]
+}
