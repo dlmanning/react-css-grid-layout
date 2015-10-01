@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "The CSS Grid Layout wrapped in React components",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dlmanning/react-css-grid-layout"
+  },
   "scripts": {
     "test": "node test/dev-server.js",
     "prepublish": "babel src --out-dir lib"
